@@ -1,6 +1,5 @@
 ## About Me
-I am working at Cambridge Consultants, currently as a Director Of Software Development, Wireless & Digital Services division in our Seattle office.
+I work at Cambridge Consultants as the Leader of our Telecoms Software Department.
 
-Along with leading a team of incredibly talented software engineers, I am working on software for a wide variety of deeply embedded, resource-constrained connected products for our clients.
-My main interests are in secure software, networking stacks, RTOS, systems design, and digital hardware.
-
+Alongside leading a team of incredibly talented software engineers, I develop software for a wide range of deeply embedded, resource-constrained connected products for our clients.
+My main interests include secure software, networking stacks, RTOS, systems design, and digital hardware.
